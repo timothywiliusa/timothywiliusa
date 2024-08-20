@@ -27,10 +27,10 @@
     <a href="mailto:tim.wiliusa@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
     </a>
-    <a href="https://www.linkedin.com/in/timothy-wiliusa-13317418b/" target="_blank">
+    <a href="https://www.linkedin.com/in/timothy-wiliusa-13317418b/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://timothywiliusa.com" target="_blank">
+    <a href="https://timothywiliusa.com">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
     </a>
 </div>
