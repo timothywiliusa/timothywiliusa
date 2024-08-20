@@ -19,8 +19,14 @@
 
 📫 How to reach me: tim.wiliusa@gmail.com or through the form on [my website](https://timothywiliusa.com)
 
-⚡ Fun fact:  The word “debugging” in originated from a literal event involving a real bug! If you're curious, google "grace hopper moth"
+⚡ Fun fact:  The word “debugging” in originated from a literal event involving a real bug!
 
+</div>
+
+<div align="center">
+    <a href="mailto:tim.wiliusa@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
+    </a>
 </div>
 
 <!--
