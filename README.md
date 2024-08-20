@@ -5,7 +5,23 @@
 
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">I'm passionate about scrum and I love to create front end animations</h3>
+
+<div>
+
+🔭 I’m currently working on creating website for a holding company
+
+🌱 I’m currently learning Framer-motion with Next.js
+
+👯 I’m looking to collaborate on front end development
+
+💬 Ask me about Next.js, React, Firebase, MongoDB, Framer... or anything
+
+📫 How to reach me: tim.wiliusa@gmail.com or through the form on [my website](https://timothywiliusa.com)
+
+⚡ Fun fact:  The word “debugging” in originated from a literal event involving a real bug! If you're curious, google "grace hopper moth"
+
+</div>
 
 <!--
 **timothywiliusa/timothywiliusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
