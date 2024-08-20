@@ -7,7 +7,7 @@
 
 <h3 align="center">I'm passionate about scrum and I love to create front end animations</h3>
 
-<div>
+<div align="center">
 
 🔭 I’m currently working on creating website for a holding company
 
