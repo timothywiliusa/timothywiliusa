@@ -9,11 +9,9 @@
 
 <div align="center">
 
-🔭 I’m currently working on creating website for a holding company
+🔭 I’m currently working on creating website for small businesses
 
-🌱 I’m currently learning Framer-motion with Next.js
-
-👯 I’m looking to collaborate on front end development
+👯 I’m looking to collaborate on front end development and design
 
 💬 Ask me about Next.js, React, Firebase, MongoDB, Framer... or anything
 
